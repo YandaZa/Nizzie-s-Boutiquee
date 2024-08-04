@@ -122,6 +122,7 @@ Partial Class LOGIN
         Controls.Add(lblSignIn)
         Controls.Add(txtPassword)
         Controls.Add(txtUsername)
+        FormBorderStyle = FormBorderStyle.None
         Name = "LOGIN"
         StartPosition = FormStartPosition.CenterScreen
         Text = "LOGIN"

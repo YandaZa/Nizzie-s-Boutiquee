@@ -47,6 +47,7 @@ Partial Class CART
         Panel4 = New Panel()
         Button4 = New Button()
         PictureBox4 = New PictureBox()
+        PictureBox5 = New PictureBox()
         Panel1.SuspendLayout()
         Panel2.SuspendLayout()
         Panel3.SuspendLayout()
@@ -55,6 +56,7 @@ Partial Class CART
         CType(PictureBox3, ComponentModel.ISupportInitialize).BeginInit()
         Panel4.SuspendLayout()
         CType(PictureBox4, ComponentModel.ISupportInitialize).BeginInit()
+        CType(PictureBox5, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' Panel1
@@ -65,7 +67,7 @@ Partial Class CART
         Panel1.Controls.Add(Label1)
         Panel1.Controls.Add(RadioButton1)
         Panel1.Controls.Add(PictureBox1)
-        Panel1.Location = New Point(50, 45)
+        Panel1.Location = New Point(56, 48)
         Panel1.Name = "Panel1"
         Panel1.Size = New Size(509, 93)
         Panel1.TabIndex = 0
@@ -78,7 +80,7 @@ Partial Class CART
         Panel2.Controls.Add(Label2)
         Panel2.Controls.Add(RadioButton2)
         Panel2.Controls.Add(PictureBox2)
-        Panel2.Location = New Point(50, 171)
+        Panel2.Location = New Point(56, 174)
         Panel2.Name = "Panel2"
         Panel2.Size = New Size(509, 93)
         Panel2.TabIndex = 1
@@ -91,7 +93,7 @@ Partial Class CART
         Panel3.Controls.Add(Label3)
         Panel3.Controls.Add(RadioButton3)
         Panel3.Controls.Add(PictureBox3)
-        Panel3.Location = New Point(50, 295)
+        Panel3.Location = New Point(56, 298)
         Panel3.Name = "Panel3"
         Panel3.Size = New Size(509, 93)
         Panel3.TabIndex = 2
@@ -279,7 +281,7 @@ Partial Class CART
         ' 
         Panel4.Controls.Add(Button4)
         Panel4.Controls.Add(RadioButton4)
-        Panel4.Location = New Point(50, 401)
+        Panel4.Location = New Point(56, 404)
         Panel4.Name = "Panel4"
         Panel4.Size = New Size(509, 37)
         Panel4.TabIndex = 4
@@ -296,24 +298,37 @@ Partial Class CART
         ' PictureBox4
         ' 
         PictureBox4.Image = My.Resources.Resources.d41588dbb8a0074f0a21dc107d7c86ae
-        PictureBox4.Location = New Point(589, 49)
+        PictureBox4.Location = New Point(595, 52)
         PictureBox4.Name = "PictureBox4"
         PictureBox4.Size = New Size(188, 352)
         PictureBox4.SizeMode = PictureBoxSizeMode.StretchImage
         PictureBox4.TabIndex = 5
         PictureBox4.TabStop = False
         ' 
+        ' PictureBox5
+        ' 
+        PictureBox5.Image = My.Resources.Resources.grocery_store1
+        PictureBox5.Location = New Point(4, 3)
+        PictureBox5.Name = "PictureBox5"
+        PictureBox5.Size = New Size(47, 43)
+        PictureBox5.SizeMode = PictureBoxSizeMode.StretchImage
+        PictureBox5.TabIndex = 6
+        PictureBox5.TabStop = False
+        ' 
         ' CART
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(PictureBox5)
         Controls.Add(PictureBox4)
         Controls.Add(Panel4)
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "CART"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "CART"
         Panel1.ResumeLayout(False)
         Panel1.PerformLayout()
@@ -327,6 +342,7 @@ Partial Class CART
         Panel4.ResumeLayout(False)
         Panel4.PerformLayout()
         CType(PictureBox4, ComponentModel.ISupportInitialize).EndInit()
+        CType(PictureBox5, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -355,4 +371,5 @@ Partial Class CART
     Friend WithEvents Panel4 As Panel
     Friend WithEvents Button4 As Button
     Friend WithEvents PictureBox4 As PictureBox
+    Friend WithEvents PictureBox5 As PictureBox
 End Class

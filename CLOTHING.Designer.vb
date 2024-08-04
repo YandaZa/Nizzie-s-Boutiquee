@@ -392,6 +392,7 @@ Partial Class CLOTHING
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "CLOTHING"
         StartPosition = FormStartPosition.CenterScreen
         Text = "CLOTHING"

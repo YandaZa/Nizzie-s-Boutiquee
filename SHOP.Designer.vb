@@ -350,6 +350,7 @@ Partial Class SHOP
         Controls.Add(Panel1)
         Controls.Add(Panel7)
         Controls.Add(PictureBox1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "SHOP"
         StartPosition = FormStartPosition.CenterScreen
         Text = "SHOP"

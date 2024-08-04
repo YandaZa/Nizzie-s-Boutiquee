@@ -313,7 +313,9 @@ Partial Class BEACHWEAR
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "BEACHWEAR"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "BEACHWEAR"
         CType(PictureBox3, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

@@ -324,7 +324,9 @@ Partial Class BEAUTY
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "BEAUTY"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "BEAUTY"
         Panel8.ResumeLayout(False)
         CType(PictureBox2, ComponentModel.ISupportInitialize).EndInit()

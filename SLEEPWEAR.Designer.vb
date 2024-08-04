@@ -324,7 +324,9 @@ Partial Class SLEEPWEAR
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "SLEEPWEAR"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "SLEEPWEAR"
         Panel1.ResumeLayout(False)
         CType(PictureBox3, ComponentModel.ISupportInitialize).EndInit()

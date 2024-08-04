@@ -313,7 +313,9 @@ Partial Class UNDERWEAR
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "UNDERWEAR"
+        StartPosition = FormStartPosition.CenterScreen
         Text = "UNDERWEAR"
         CType(PictureBox3, ComponentModel.ISupportInitialize).EndInit()
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

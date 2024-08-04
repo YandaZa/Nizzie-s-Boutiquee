@@ -131,6 +131,7 @@ Partial Class Register
         Controls.Add(txtEmail)
         Controls.Add(txtFirstName)
         Controls.Add(lblRegister)
+        FormBorderStyle = FormBorderStyle.None
         Name = "Register"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Register"

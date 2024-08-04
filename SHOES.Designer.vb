@@ -324,6 +324,7 @@ Partial Class SHOES
         Controls.Add(Panel3)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+        FormBorderStyle = FormBorderStyle.None
         Name = "SHOES"
         StartPosition = FormStartPosition.CenterScreen
         Text = "SHOES"

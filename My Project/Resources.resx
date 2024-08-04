@@ -118,136 +118,295 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="6pairs Solid Crew Socks Women Socks" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6pairs Solid Crew Socks Women Socks.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ciing 2024 Spring New Flat Women Shoes Loafers Simple Low Heels Office Work Casual Shoes Slip on Flat Footwear Ladies Square Toe Shoes - black _ 37" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ciing 2024 Spring New Flat Women Shoes Loafers Simple Low Heels Office Work Casual Shoes Slip on Flat Footwear Ladies Square Toe Shoes - black _ 37.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Olivia Mark - Elegantes botas de invierno para mujer con puntera redonda, detalle de piel sintética y puño de piel para una comodidad y un estilo definitivos - Marrón café" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Olivia Mark - Elegantes botas de invierno para mujer con puntera redonda, detalle de piel sintética y puño de piel para una comodidad y un estilo definitivos - Marrón café.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="IMG_7817" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\IMG_7817.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Capture" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Capture.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ribbed Zip-Up Jumpsuit - Long Sleeve - Black _ S" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ribbed Zip-Up Jumpsuit - Long Sleeve - Black _ S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Women's 1 Piece Lace _ Sequins _ Beaded G-strings  Thongs Panties - Normal Low Waist White Black Blue One-Size _ Mesh" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's 1 Piece Lace _ Sequins _ Beaded G-strings  Thongs Panties - Normal Low Waist White Black Blue One-Size _ Mesh.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Womens Linen Button Front Batwing Beach Kaftan Shirt - White - M" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Womens Linen Button Front Batwing Beach Kaftan Shirt - White - M.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="New sexy three-dimensional flower slanted shoulder one-piece swimsuit - Black _ L" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\New sexy three-dimensional flower slanted shoulder one-piece swimsuit - Black _ L.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="adidas Believe This 2_0 Womens Short Running Tights - Black - S" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\adidas Believe This 2_0 Womens Short Running Tights - Black - S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Textured Bikini Set Ruffle Layered Cami Top &amp; Ruffle Skirt 2 Piece Swimsuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Textured Bikini Set Ruffle Layered Cami Top &amp; Ruffle Skirt 2 Piece Swimsuit.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WannaThis Elegant Folds Women Split Knee Dress Sleeveless Bodycon Sexy Fashion Front Vintage Partywear Night Club Tube Dresses Purple-M" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WannaThis Elegant Folds Women Split Knee Dress Sleeveless Bodycon Sexy Fashion Front Vintage Partywear Night Club Tube Dresses Purple-M.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Fashionkova Vintage Gray Oversize Hoodies Women Harajuku Hip Hop Embroidery Loose Sweatshirts Long Sleeve Casual Tops Grunge Korean" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Fashionkova Vintage Gray Oversize Hoodies Women Harajuku Hip Hop Embroidery Loose Sweatshirts Long Sleeve Casual Tops Grunge Korean.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Free People Love Letter Cami" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Free People Love Letter Cami.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Tie Side Tanga Bikini Swimsuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Tie Side Tanga Bikini Swimsuit.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5_9_ Women's Sexy High Heels Platforms Pumps Square Toe Chunky Block Heels Rhinestone Party Shoes Black-Satin-US6" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5_9_ Women's Sexy High Heels Platforms Pumps Square Toe Chunky Block Heels Rhinestone Party Shoes Black-Satin-US6.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FINETOO Women's Cotton Briefs Sexy Underwear Women's Panties Female Underpants Fashion Ladies Lingerie Solid Colors M-XXL Blue-XXL-1pc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FINETOO Women's Cotton Briefs Sexy Underwear Women's Panties Female Underpants Fashion Ladies Lingerie Solid Colors M-XXL Blue-XXL-1pc.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FINETOO Women's Boxer Briefs Summer Safety Short Panties Seamless Anti-glare Ladies Pants Girl Cozy Female Underwear M-XXL color 1-M-1pc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\FINETOO Women's Boxer Briefs Summer Safety Short Panties Seamless Anti-glare Ladies Pants Girl Cozy Female Underwear M-XXL color 1-M-1pc.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Drop Shoulder Zipper Puffer Thick Pockets Coat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Drop Shoulder Zipper Puffer Thick Pockets Coat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Women Fluffy Plush Thicken Lapel High Low Hem Loungewear Warm Pajamas Set - Grey _ 6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women Fluffy Plush Thicken Lapel High Low Hem Loungewear Warm Pajamas Set - Grey _ 6.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Button Front Drop Shoulder Cardigan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Button Front Drop Shoulder Cardigan.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Women's &amp; Men's Clothing, Shop Online Fashion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Floral Lace Underwire Garter Lingerie Set With Stockings1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Floral Lace Underwire Garter Lingerie Set With Stockings1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Silk Chunky Square Heel Boots - Rosy Red _ 35" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Silk Chunky Square Heel Boots - Rosy Red _ 35.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Maternity High Waist Solid Skirt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maternity High Waist Solid Skirt.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="f6c781c9056f1a7c88e37037f2b7bb1a" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f6c781c9056f1a7c88e37037f2b7bb1a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Olivia Mark - Kimono boho para mujer_ Kimono de playa de manga larga con estampado de animales_ - multicolor" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Olivia Mark - Kimono boho para mujer_ Kimono de playa de manga larga con estampado de animales_ - multicolor.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5pack No Show Bra" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5pack No Show Bra.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Gingham Backless Crop Top With Shorts" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Gingham Backless Crop Top With Shorts.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ugg" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ugg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Multi-Pocket Washed Loose-Fit Floor-Length Jeans - Blue _ L _ No" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Multi-Pocket Washed Loose-Fit Floor-Length Jeans - Blue _ L _ No.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Womens Next Diamond Pattern Bum, Tum And Thigh Shaping Tights -  diamond pattern" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Womens Next Diamond Pattern Bum, Tum And Thigh Shaping Tights -  diamond pattern.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="5pack Letter Tape Panty Set" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5pack Letter Tape Panty Set.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Women's Boho Wavy Striped Strappy V-Neck Bikini Top - Cupshe-XL-Multicolored" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's Boho Wavy Striped Strappy V-Neck Bikini Top - Cupshe-XL-Multicolored.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Dresses" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Dresses.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Women 3pc Suit Custom Made Premium Cotton Long Coat Formal Event Wedding Dinner Cocktail Bride Prom Party Wear Set_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women 3pc Suit Custom Made Premium Cotton Long Coat Formal Event Wedding Dinner Cocktail Bride Prom Party Wear Set_.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Women's Denim Shorts Printed Pocket Casual Women's Shorts" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's Denim Shorts Printed Pocket Casual Women's Shorts.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Women's Denim Shorts Printed Pocket Casual Women's Shorts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's Denim Shorts Printed Pocket Casual Women's Shorts1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="New sexy three-dimensional flower slanted shoulder one-piece swimsuit - Black _ L" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New sexy three-dimensional flower slanted shoulder one-piece swimsuit - Black _ L.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Isuijie Women's Cotton Print Cartoon Boxer Briefs Boyshort Ladies Breathable Comfort Elastic Safety Panties Female Underwear Briefs 06-XL-1pc" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Isuijie Women's Cotton Print Cartoon Boxer Briefs Boyshort Ladies Breathable Comfort Elastic Safety Panties Female Underwear Briefs 06-XL-1pc.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Square Toe Slingback Flats" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Square Toe Slingback Flats.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Ribbed Zip-Up Jumpsuit - Long Sleeve - Black _ S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ribbed Zip-Up Jumpsuit - Long Sleeve - Black _ S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Women's &amp; Men's Clothing, Shop Online Fashion (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="shopping-bag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shopping-bag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Olivia Mark - Kimono boho para mujer_ Kimono de playa de manga larga con estampado de animales_ - multicolor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Olivia Mark - Kimono boho para mujer_ Kimono de playa de manga larga con estampado de animales_ - multicolor.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ugg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ugg.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's &amp; Men's Clothing, Shop Online Fashion (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion (2).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Womens Linen Button Front Batwing Beach Kaftan Shirt - White - M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Womens Linen Button Front Batwing Beach Kaftan Shirt - White - M.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Capture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Capture.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Roupão de Banho - Feminino Rosa 718 _ GG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Roupão de Banho - Feminino Rosa 718 _ GG.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WannaThis Elegant Folds Women Split Knee Dress Sleeveless Bodycon Sexy Fashion Front Vintage Partywear Night Club Tube Dresses Purple-M" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WannaThis Elegant Folds Women Split Knee Dress Sleeveless Bodycon Sexy Fashion Front Vintage Partywear Night Club Tube Dresses Purple-M.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Satin Lace Pajamas Set Women Strap Top Pants Sleepwear Sleep Suit - Pink Set - A _ XL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Satin Lace Pajamas Set Women Strap Top Pants Sleepwear Sleep Suit - Pink Set - A _ XL.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f6c781c9056f1a7c88e37037f2b7bb1a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f6c781c9056f1a7c88e37037f2b7bb1a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wavy Chunky Hoops in 3_4 Silver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wavy Chunky Hoops in 3_4 Silver.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brushes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brushes.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="brushes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brushes1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's &amp; Men's Clothing, Shop Online Fashion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Open Front Belted Satin Night Robe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Open Front Belted Satin Night Robe.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's Denim Shorts Printed Pocket Casual Women's Shorts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's Denim Shorts Printed Pocket Casual Women's Shorts1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clothing Accessories _ Online Clothing _ Clothing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Clothing Accessories _ Online Clothing _ Clothing.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Seamless Over the Bump Underwear - S _ Beige" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Seamless Over the Bump Underwear - S _ Beige.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tops" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tops.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4Pcs_Set Europe America Vintage Fashion Multilayer Beads - Gold" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4Pcs_Set Europe America Vintage Fashion Multilayer Beads - Gold.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silk Chunky Square Heel Boots - Rosy Red _ 351" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Silk Chunky Square Heel Boots - Rosy Red _ 351.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Betternotification 100% Cotton Women's Soft Pajama Set Full Sleeve Button Shirt+crop Top+shorts 3 Pieces Matching Set Female Loungewear Streetwear Rose Red-S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Betternotification 100% Cotton Women's Soft Pajama Set Full Sleeve Button Shirt+crop Top+shorts 3 Pieces Matching Set Female Loungewear Streetwear Rose Red-S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kindred Bravely Sienna Smocked Midi Maternity_Nursing Dress in Lilac Stone at Nordstrom, Size Small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kindred Bravely Sienna Smocked Midi Maternity_Nursing Dress in Lilac Stone at Nordstrom, Size Small.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maternity Elegant Off Shoulder Long Sleeve Knitted Bodycon Dress" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maternity Elegant Off Shoulder Long Sleeve Knitted Bodycon Dress.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mulheres 1 peça Bandana padrão paisley fashionable para diário" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mulheres 1 peça Bandana padrão paisley fashionable para diário.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Floral Lace Underwire Garter Lingerie Set With Stockings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Floral Lace Underwire Garter Lingerie Set With Stockings.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tanguoant Woman Sneakers Women's Shoes Ladies Casual Breathable Female Vulcanized Shoes Lace Up Woman Comfort High Top Walking Shoe 801 black-42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tanguoant Woman Sneakers Women's Shoes Ladies Casual Breathable Female Vulcanized Shoes Lace Up Woman Comfort High Top Walking Shoe 801 black-42.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="22398903-7c45-4ac1-ac2f-3d06885c70c8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22398903-7c45-4ac1-ac2f-3d06885c70c8.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pineapple Print Tee &amp; Shorts PJ Set _ Pajama Set" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pineapple Print Tee &amp; Shorts PJ Set _ Pajama Set.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Gingham Backless Crop Top With Shorts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gingham Backless Crop Top With Shorts.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sneaker" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sneaker.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Hipster Bikini Bottoms in Sky Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Hipster Bikini Bottoms in Sky Blue.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Momyknows Light Blue Backless Fashion Beach Photoshoot One Piece Maternity Swimwear - Light Blue _ S" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Momyknows Light Blue Backless Fashion Beach Photoshoot One Piece Maternity Swimwear - Light Blue _ S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Advbridge Women Cargo Mini Skirt Aesthetic Y2k 90s Low Waist Denim Short Skirt Vintage Harajuku Streetwear Slim Sexy Casual Femme Clothing" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Advbridge Women Cargo Mini Skirt Aesthetic Y2k 90s Low Waist Denim Short Skirt Vintage Harajuku Streetwear Slim Sexy Casual Femme Clothing.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="5pack Letter Tape Panty Set1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5pack Letter Tape Panty Set1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fashionable Outdoors Slide Sandals for Women, Buckle Decor Plain Jelly Open Toe Footbed Sandals" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fashionable Outdoors Slide Sandals for Women, Buckle Decor Plain Jelly Open Toe Footbed Sandals.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="4a528325-bc0c-40ca-b54e-e5ef79e20ce0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4a528325-bc0c-40ca-b54e-e5ef79e20ce0.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="El elegante perfume con una fragancia embriagadora que dura todo el día y levanta el ánimo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\El elegante perfume con una fragancia embriagadora que dura todo el día y levanta el ánimo.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sunnies" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sunnies.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kids EVRYDAY Chicas bajo irregular con capucha Camiseta &amp; Shorts con top de tirantes - Multicolor _ 11-12Y" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Kids EVRYDAY Chicas bajo irregular con capucha Camiseta &amp; Shorts con top de tirantes - Multicolor _ 11-12Y.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="48fd387a-320f-4f62-8bae-18c38be64054" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\48fd387a-320f-4f62-8bae-18c38be64054.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Free People Love Letter Cami" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Free People Love Letter Cami.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="avatar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\avatar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5_9_ Women's Sexy High Heels Platforms Pumps Square Toe Chunky Block Heels Rhinestone Party Shoes Black-Satin-US6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5_9_ Women's Sexy High Heels Platforms Pumps Square Toe Chunky Block Heels Rhinestone Party Shoes Black-Satin-US6.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lianfudai Suit Hip Hop Punk Ring Men Women Jewelry Party Accessories Ring Personality Three Finger Conjoined Chain Open Ring New Trend - AE725" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lianfudai Suit Hip Hop Punk Ring Men Women Jewelry Party Accessories Ring Personality Three Finger Conjoined Chain Open Ring New Trend - AE725.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FINETOO Women's Boxer Briefs Summer Safety Short Panties Seamless Anti-glare Ladies Pants Girl Cozy Female Underwear M-XXL color 1-M-1pc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FINETOO Women's Boxer Briefs Summer Safety Short Panties Seamless Anti-glare Ladies Pants Girl Cozy Female Underwear M-XXL color 1-M-1pc.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Womens Next Diamond Pattern Bum, Tum And Thigh Shaping Tights -  diamond pattern" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Womens Next Diamond Pattern Bum, Tum And Thigh Shaping Tights -  diamond pattern.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Multi-Pocket Washed Loose-Fit Floor-Length Jeans - Blue _ L _ No" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Multi-Pocket Washed Loose-Fit Floor-Length Jeans - Blue _ L _ No.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Snatched Eyes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Snatched Eyes.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Women's Striped Print Two Pieces Bikini Swimsuit Three-Piece Swimwear" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Women's Striped Print Two Pieces Bikini Swimsuit Three-Piece Swimwear.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pearl bow necklace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pearl bow necklace.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6pairs Solid Crew Socks Women Socks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6pairs Solid Crew Socks Women Socks.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Swimsuit - WHOLESALE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Swimsuit - WHOLESALE.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's Denim Shorts Printed Pocket Casual Women's Shorts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's Denim Shorts Printed Pocket Casual Women's Shorts.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Maternity Solid Cami Bodycon Dress With Coat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Maternity Solid Cami Bodycon Dress With Coat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Artist Couture Supreme Nudes and Pressed Pigment Eyeshadow Palette_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Artist Couture Supreme Nudes and Pressed Pigment Eyeshadow Palette_.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="skin care" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\skin care.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hipster Bikini Bottoms in Sky Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hipster Bikini Bottoms in Sky Blue.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fashionkova Vintage Gray Oversize Hoodies Women Harajuku Hip Hop Embroidery Loose Sweatshirts Long Sleeve Casual Tops Grunge Korean" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fashionkova Vintage Gray Oversize Hoodies Women Harajuku Hip Hop Embroidery Loose Sweatshirts Long Sleeve Casual Tops Grunge Korean.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="The Best Maternity Bras to Get You Through Your Pregnancy (and After)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\The Best Maternity Bras to Get You Through Your Pregnancy (and After).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's &amp; Men's Clothing, Shop Online Fashion (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Textured Bikini Set Ruffle Layered Cami Top &amp; Ruffle Skirt 2 Piece Swimsuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Textured Bikini Set Ruffle Layered Cami Top &amp; Ruffle Skirt 2 Piece Swimsuit.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Premium Photo _ Bags retail and black woman with a credit card smartphone or ecommerce on a grey studio background Female person shopper or model with cellphone boutique items or purchase w" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Premium Photo _ Bags retail and black woman with a credit card smartphone or ecommerce on a grey studio background Female person shopper or model with cellphone boutique items or purchase w.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Momyknows Light Blue Backless Fashion Beach Photoshoot One Piece Maternity Swimwear - Light Blue _ S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Momyknows Light Blue Backless Fashion Beach Photoshoot One Piece Maternity Swimwear - Light Blue _ S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grocery-store" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grocery-store.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Tie Side Tanga Bikini Swimsuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Tie Side Tanga Bikini Swimsuit.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Advbridge Women Cargo Mini Skirt Aesthetic Y2k 90s Low Waist Denim Short Skirt Vintage Harajuku Streetwear Slim Sexy Casual Femme Clothing" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Advbridge Women Cargo Mini Skirt Aesthetic Y2k 90s Low Waist Denim Short Skirt Vintage Harajuku Streetwear Slim Sexy Casual Femme Clothing.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PHA Fashion - VLN Bags - 512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PHA Fashion - VLN Bags - 512.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ciing 2024 Spring New Flat Women Shoes Loafers Simple Low Heels Office Work Casual Shoes Slip on Flat Footwear Ladies Square Toe Shoes - black _ 37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ciing 2024 Spring New Flat Women Shoes Loafers Simple Low Heels Office Work Casual Shoes Slip on Flat Footwear Ladies Square Toe Shoes - black _ 37.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Floral Lace Underwire Garter Lingerie Set With Stockings2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Floral Lace Underwire Garter Lingerie Set With Stockings2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's &amp; Men's Clothing, Shop Online Fashion (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's &amp; Men's Clothing, Shop Online Fashion (4).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Betternotification 2024 New Women's Matching Set Sexy Fluffy Plush Pajama Sets Hooded Crop Top+Shorts+Coat Three Pieces Suit Woman Pyjama Sleepwear Color 1-S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Betternotification 2024 New Women's Matching Set Sexy Fluffy Plush Pajama Sets Hooded Crop Top+Shorts+Coat Three Pieces Suit Woman Pyjama Sleepwear Color 1-S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's Boho Wavy Striped Strappy V-Neck Bikini Top - Cupshe-XL-Multicolored" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's Boho Wavy Striped Strappy V-Neck Bikini Top - Cupshe-XL-Multicolored.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adidas Believe This 2_0 Womens Short Running Tights - Black - S" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adidas Believe This 2_0 Womens Short Running Tights - Black - S.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Silk Chunky Square Heel Boots - Rosy Red _ 35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Silk Chunky Square Heel Boots - Rosy Red _ 35.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5pack No Show Bra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5pack No Show Bra.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Unique Men's Watch Date Quartz Display With 2pcs_set Bangle Best Gift To Male" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Unique Men's Watch Date Quartz Display With 2pcs_set Bangle Best Gift To Male.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IMG_7817" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IMG_7817.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Square Toe Slingback Flats" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Square Toe Slingback Flats.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Floral Lace Underwire Garter Lingerie Set With 1pair Leg Ring" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Floral Lace Underwire Garter Lingerie Set With 1pair Leg Ring.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women's 1 Piece Lace _ Sequins _ Beaded G-strings  Thongs Panties - Normal Low Waist White Black Blue One-Size _ Mesh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women's 1 Piece Lace _ Sequins _ Beaded G-strings  Thongs Panties - Normal Low Waist White Black Blue One-Size _ Mesh.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Drop Shoulder Zipper Puffer Thick Pockets Coat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Drop Shoulder Zipper Puffer Thick Pockets Coat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5pack Letter Tape Panty Set" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5pack Letter Tape Panty Set.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Women 3pc Suit Custom Made Premium Cotton Long Coat Formal Event Wedding Dinner Cocktail Bride Prom Party Wear Set_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Women 3pc Suit Custom Made Premium Cotton Long Coat Formal Event Wedding Dinner Cocktail Bride Prom Party Wear Set_.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="love" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\love.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dresses" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dresses.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ami Maternity &amp; Nursing Maxi Dress - M _ Navy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ami Maternity &amp; Nursing Maxi Dress - M _ Navy.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SHEIN USA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SHEIN USA.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FINETOO Women's Cotton Briefs Sexy Underwear Women's Panties Female Underpants Fashion Ladies Lingerie Solid Colors M-XXL Blue-XXL-1pc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FINETOO Women's Cotton Briefs Sexy Underwear Women's Panties Female Underpants Fashion Ladies Lingerie Solid Colors M-XXL Blue-XXL-1pc.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Makeup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Makeup.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d41588dbb8a0074f0a21dc107d7c86ae" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d41588dbb8a0074f0a21dc107d7c86ae.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

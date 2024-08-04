@@ -63,6 +63,46 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property _22398903_7c45_4ac1_ac2f_3d06885c70c8() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("22398903-7c45-4ac1-ac2f-3d06885c70c8", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property _48fd387a_320f_4f62_8bae_18c38be64054() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("48fd387a-320f-4f62-8bae-18c38be64054", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property _4a528325_bc0c_40ca_b54e_e5ef79e20ce0() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("4a528325-bc0c-40ca-b54e-e5ef79e20ce0", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property _4Pcs_Set_Europe_America_Vintage_Fashion_Multilayer_Beads___Gold() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("4Pcs_Set Europe America Vintage Fashion Multilayer Beads - Gold", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property _5_9__Women_s_Sexy_High_Heels_Platforms_Pumps_Square_Toe_Chunky_Block_Heels_Rhinestone_Party_Shoes_Black_Satin_US6() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("5_9_ Women's Sexy High Heels Platforms Pumps Square Toe Chunky Block Heels Rhines"& _ 
@@ -77,6 +117,16 @@ Namespace My.Resources
         Friend ReadOnly Property _5pack_Letter_Tape_Panty_Set() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("5pack Letter Tape Panty Set", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property _5pack_Letter_Tape_Panty_Set1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("5pack Letter Tape Panty Set1", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -125,6 +175,78 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Ami_Maternity___Nursing_Maxi_Dress___M___Navy() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Ami Maternity & Nursing Maxi Dress - M _ Navy", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Artist_Couture_Supreme_Nudes_and_Pressed_Pigment_Eyeshadow_Palette_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Artist Couture Supreme Nudes and Pressed Pigment Eyeshadow Palette_", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property avatar() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("avatar", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Betternotification_100__Cotton_Women_s_Soft_Pajama_Set_Full_Sleeve_Button_Shirt_crop_Top_shorts_3_Pieces_Matching_Set_Female_Loungewear_Streetwear_Rose_Red_S() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Betternotification 100% Cotton Women's Soft Pajama Set Full Sleeve Button Shirt+c"& _ 
+                        "rop Top+shorts 3 Pieces Matching Set Female Loungewear Streetwear Rose Red-S", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Betternotification_2024_New_Women_s_Matching_Set_Sexy_Fluffy_Plush_Pajama_Sets_Hooded_Crop_Top_Shorts_Coat_Three_Pieces_Suit_Woman_Pyjama_Sleepwear_Color_1_S() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Betternotification 2024 New Women's Matching Set Sexy Fluffy Plush Pajama Sets Ho"& _ 
+                        "oded Crop Top+Shorts+Coat Three Pieces Suit Woman Pyjama Sleepwear Color 1-S", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property brushes() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("brushes", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property brushes1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("brushes1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Button_Front_Drop_Shoulder_Cardigan() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Button Front Drop Shoulder Cardigan", resourceCulture)
@@ -156,6 +278,26 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Clothing_Accessories___Online_Clothing___Clothing() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Clothing Accessories _ Online Clothing _ Clothing", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property d41588dbb8a0074f0a21dc107d7c86ae() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("d41588dbb8a0074f0a21dc107d7c86ae", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Dresses() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Dresses", resourceCulture)
@@ -169,6 +311,17 @@ Namespace My.Resources
         Friend ReadOnly Property Drop_Shoulder_Zipper_Puffer_Thick_Pockets_Coat() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Drop Shoulder Zipper Puffer Thick Pockets Coat", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property El_elegante_perfume_con_una_fragancia_embriagadora_que_dura_todo_el_día_y_levanta_el_ánimo() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("El elegante perfume con una fragancia embriagadora que dura todo el día y levanta"& _ 
+                        " el ánimo", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -230,6 +383,46 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Floral_Lace_Underwire_Garter_Lingerie_Set_With_1pair_Leg_Ring() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Floral Lace Underwire Garter Lingerie Set With 1pair Leg Ring", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Floral_Lace_Underwire_Garter_Lingerie_Set_With_Stockings() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Floral Lace Underwire Garter Lingerie Set With Stockings", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Floral_Lace_Underwire_Garter_Lingerie_Set_With_Stockings1() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Floral Lace Underwire Garter Lingerie Set With Stockings1", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Floral_Lace_Underwire_Garter_Lingerie_Set_With_Stockings2() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Floral Lace Underwire Garter Lingerie Set With Stockings2", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Free_People_Love_Letter_Cami() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Free People Love Letter Cami", resourceCulture)
@@ -250,9 +443,29 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property grocery_store() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("grocery-store", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Hipster_Bikini_Bottoms_in_Sky_Blue() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Hipster Bikini Bottoms in Sky Blue", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property home() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("home", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -281,10 +494,103 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Kids_EVRYDAY_Chicas_bajo_irregular_con_capucha_Camiseta___Shorts_con_top_de_tirantes___Multicolor___11_12Y() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Kids EVRYDAY Chicas bajo irregular con capucha Camiseta & Shorts con top de tiran"& _ 
+                        "tes - Multicolor _ 11-12Y", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Kindred_Bravely_Sienna_Smocked_Midi_Maternity_Nursing_Dress_in_Lilac_Stone_at_Nordstrom__Size_Small() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Kindred Bravely Sienna Smocked Midi Maternity_Nursing Dress in Lilac Stone at Nor"& _ 
+                        "dstrom, Size Small", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Lianfudai_Suit_Hip_Hop_Punk_Ring_Men_Women_Jewelry_Party_Accessories_Ring_Personality_Three_Finger_Conjoined_Chain_Open_Ring_New_Trend___AE725() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Lianfudai Suit Hip Hop Punk Ring Men Women Jewelry Party Accessories Ring Persona"& _ 
+                        "lity Three Finger Conjoined Chain Open Ring New Trend - AE725", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property love() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("love", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Makeup() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Makeup", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Maternity_Elegant_Off_Shoulder_Long_Sleeve_Knitted_Bodycon_Dress() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Maternity Elegant Off Shoulder Long Sleeve Knitted Bodycon Dress", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Maternity_High_Waist_Solid_Skirt() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Maternity High Waist Solid Skirt", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Maternity_Solid_Cami_Bodycon_Dress_With_Coat() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Maternity Solid Cami Bodycon Dress With Coat", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Momyknows_Light_Blue_Backless_Fashion_Beach_Photoshoot_One_Piece_Maternity_Swimwear___Light_Blue___S() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Momyknows Light Blue Backless Fashion Beach Photoshoot One Piece Maternity Swimwe"& _ 
                         "ar - Light Blue _ S", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property mulheres_1_peça_Bandana_padrão_paisley_fashionable_para_diário() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("mulheres 1 peça Bandana padrão paisley fashionable para diário", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -336,6 +642,58 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Open_Front_Belted_Satin_Night_Robe() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Open Front Belted Satin Night Robe", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Pearl_bow_necklace() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Pearl bow necklace", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property PHA_Fashion___VLN_Bags___512() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("PHA Fashion - VLN Bags - 512", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Pineapple_Print_Tee___Shorts_PJ_Set___Pajama_Set() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Pineapple Print Tee & Shorts PJ Set _ Pajama Set", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Premium_Photo___Bags_retail_and_black_woman_with_a_credit_card_smartphone_or_ecommerce_on_a_grey_studio_background_Female_person_shopper_or_model_with_cellphone_boutique_items_or_purchase_w() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Premium Photo _ Bags retail and black woman with a credit card smartphone or ecom"& _ 
+                        "merce on a grey studio background Female person shopper or model with cellphone "& _ 
+                        "boutique items or purchase w", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Ribbed_Zip_Up_Jumpsuit___Long_Sleeve___Black___S() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Ribbed Zip-Up Jumpsuit - Long Sleeve - Black _ S", resourceCulture)
@@ -346,9 +704,90 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Roupão_de_Banho___Feminino_Rosa_718___GG() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Roupão de Banho - Feminino Rosa 718 _ GG", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Satin_Lace_Pajamas_Set_Women_Strap_Top_Pants_Sleepwear_Sleep_Suit___Pink_Set___A___XL() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Satin Lace Pajamas Set Women Strap Top Pants Sleepwear Sleep Suit - Pink Set - A "& _ 
+                        "_ XL", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Seamless_Over_the_Bump_Underwear___S___Beige() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Seamless Over the Bump Underwear - S _ Beige", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property SHEIN_USA() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("SHEIN USA", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property shopping_bag() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("shopping-bag", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Silk_Chunky_Square_Heel_Boots___Rosy_Red___35() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Silk Chunky Square Heel Boots - Rosy Red _ 35", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Silk_Chunky_Square_Heel_Boots___Rosy_Red___351() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Silk Chunky Square Heel Boots - Rosy Red _ 351", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property skin_care() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("skin care", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Snatched_Eyes() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Snatched Eyes", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -376,9 +815,50 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Sunnies() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Sunnies", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Swimsuit___WHOLESALE() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Swimsuit - WHOLESALE", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Tanguoant_Woman_Sneakers_Women_s_Shoes_Ladies_Casual_Breathable_Female_Vulcanized_Shoes_Lace_Up_Woman_Comfort_High_Top_Walking_Shoe_801_black_42() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Tanguoant Woman Sneakers Women's Shoes Ladies Casual Breathable Female Vulcanized"& _ 
+                        " Shoes Lace Up Woman Comfort High Top Walking Shoe 801 black-42", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Textured_Bikini_Set_Ruffle_Layered_Cami_Top___Ruffle_Skirt_2_Piece_Swimsuit() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Textured Bikini Set Ruffle Layered Cami Top & Ruffle Skirt 2 Piece Swimsuit", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property The_Best_Maternity_Bras_to_Get_You_Through_Your_Pregnancy__and_After_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("The Best Maternity Bras to Get You Through Your Pregnancy (and After)", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -396,9 +876,29 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property tops() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("tops", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Ugg() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Ugg", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Unique_Men_s_Watch_Date_Quartz_Display_With_2pcs_set_Bangle_Best_Gift_To_Male() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Unique Men's Watch Date Quartz Display With 2pcs_set Bangle Best Gift To Male", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -417,10 +917,31 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Wavy_Chunky_Hoops_in_3_4_Silver() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Wavy Chunky Hoops in 3_4 Silver", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Women_3pc_Suit_Custom_Made_Premium_Cotton_Long_Coat_Formal_Event_Wedding_Dinner_Cocktail_Bride_Prom_Party_Wear_Set_() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Women 3pc Suit Custom Made Premium Cotton Long Coat Formal Event Wedding Dinner C"& _ 
                         "ocktail Bride Prom Party Wear Set_", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Women_Fluffy_Plush_Thicken_Lapel_High_Low_Hem_Loungewear_Warm_Pajamas_Set___Grey___6() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Women Fluffy Plush Thicken Lapel High Low Hem Loungewear Warm Pajamas Set - Grey "& _ 
+                        "_ 6", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -441,6 +962,26 @@ Namespace My.Resources
         Friend ReadOnly Property Women_s___Men_s_Clothing__Shop_Online_Fashion__1_() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Women's & Men's Clothing, Shop Online Fashion (1)", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Women_s___Men_s_Clothing__Shop_Online_Fashion__2_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Women's & Men's Clothing, Shop Online Fashion (2)", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Women_s___Men_s_Clothing__Shop_Online_Fashion__4_() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Women's & Men's Clothing, Shop Online Fashion (4)", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
